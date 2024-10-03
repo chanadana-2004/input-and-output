@@ -11,5 +11,8 @@ Enter the age:
 35
 Age of Dhoni is 35
 '''
+program:
 a=int(input())
 print("Age of Dhoni is",a)
+a = int(input("Enter the age:\n"))
+print("Age of Dhoni is", a)
